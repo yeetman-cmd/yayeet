@@ -1,5 +1,2 @@
-fortnitepy
-BenBotAsync
-crayons
-pypresence
-psutil
+discord.py
+asyncio
